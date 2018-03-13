@@ -1,8 +1,6 @@
 # Download-Manager-Magic-C-Sharp (DMM)
 
-### Some image about DMM's result:
-
-### Some Image About Inteface:
+### 1. Some image about DMM's result:
 
 + ### Press Add Url in order to Add a url to prepare to download
 
@@ -29,3 +27,17 @@
 
 + ### Compare result done
 ![](https://lh3.googleusercontent.com/NUq4x1YjSciIVNztOFbXw_Q2tljcxZIqrt3lwJupWJOyGj0EyFXYXdrb9GjJH6fjQrKHCT9ejMCtVX6iDwuMJzhnE7666V5R6L7y_MLyXVeagVgl5m8-glxh1y8SEoxGCgzOM67Qbb0DtqBOabdV3TggZE9cE4klKinmsd_zWCYCboT59x6e-ngCoFThttVwLfmZVKcRONZuHjHSTUh4Pn4D-KClYHecqHv9dRXahR6kgAV0lRB84eAuGdg_P-jFAiJc7x6lplLj4i-M_d3lgZQ8etBByC4h5CYNnPrN0hMYE_2bwMup0o3DKQOrMxycV0FknTlDXSq0VRl7JJ8cE9N5JWbVInjEg3DaPuu_0hOw2Teuq6FrzYUIAdRoRybk8U5dRWpUG0LjxfqvLZQ5V4hSEhVBD-iqT3XSnsv0_zZspoi87ux3U51dlHycBZDbilOURwAoieKXWagMGzkzga8gglb5uVg-fq64Z4HPA9GbX5lEwh9CnKToN9Jy-6rCdSbtnR_Y-QEQD6_QuBRYMH9onp3ZM5EQ1YyVYb2BURd1spGyWZINydZ8rUK8iPJdrhE1rdKGV3WYgk9qjAsnsLi_WN8qh_t5EDJEVyx9vVyLMeRn5vxguttXAtrrCdhzLTsw3JdwpSaIYIrA9uUO-eBHuvHW4Y37=w843-h324-no)
+
+### 2. Built with:
+
++ [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/) - C# Tutorials Pratice
+
+### 3. Author:
+
++ **Hau Trung Nguyen** - *initial work* - [flightstar](https://github.com/flightstar)
+
+### 4. Support:
+
+*React out to me at one of the following place:*
++ Facebook at [link](https://www.facebook.com/haunt.hcm2015)
++ Skype: haunt.hcm2015
